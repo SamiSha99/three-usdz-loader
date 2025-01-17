@@ -1,3 +1,6 @@
+## *Forked Changes*
+- Updated threejs from v0.166.0 to v0.172.0
+
 # Three USDZ Loader
 [![npm version](https://badge.fury.io/js/three-usdz-loader.svg)](https://badge.fury.io/js/three-usdz-loader)
 
