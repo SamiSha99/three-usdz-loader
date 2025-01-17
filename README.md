@@ -1,4 +1,4 @@
-## *Forked Changes from [main repo](https://github.com/ponahoum/three-usdz-loader)*
+## *Forked Changes from [Main Repository](https://github.com/ponahoum/three-usdz-loader)*
 - Updated threejs from v0.166.0 to v0.172.0
 - Pathing changed from lib/ to src/
 
