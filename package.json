@@ -12,7 +12,8 @@
     },
     "files": [
         "lib/**/*",
-        "external/**/*"
+        "external/**/*",
+        "src/**/*"
     ],
     "keywords": [
         "usdz",
