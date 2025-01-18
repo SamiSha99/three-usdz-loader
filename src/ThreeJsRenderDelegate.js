@@ -209,7 +209,7 @@ class HydraMesh {
     setTransform(matrix) {
         this._mesh.matrix.set(...matrix);
         this._mesh.matrix.transpose();
-        this._mesh.matrixAutoUpdate = false;
+        this._mesh.matrixAutoUpdate = true;
     }
 
     /**
